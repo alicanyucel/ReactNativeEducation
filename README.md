@@ -1,11 +1,7 @@
 # React Native Eğitimi
 
-[![](https://mehmetseven.net/content/images/2019/04/mehmet-seven-react-native.jpg)](http://bit.ly/reactnative_)
 
 Node.JS, React, GraphQL ve şimdi de React Native.Evet, "Sıfırdan Her Yönüyle" yolculuğunun dördüncü adımı olan React Native kursu artık hazır.
-
-[Kursa Git](http://bit.ly/reactnative_)
-
 
 ## Temel Dersler
 
@@ -17,29 +13,21 @@ Bu konuları tamamladıktan sonra React Native üzerinde çok basit ekranlar tas
 
 Temel bilgileri daha iyi oturtmak ve pratik olması adına çok basit bir login ekranı tasarlıyoruz. Bunu yaparken aynı zamanda uygulama ismini,iconunu ve splash ekranını değiştirmeyi de öğreniyoruz.
 
-![](https://mehmetseven.net/content/images/2019/04/login-page-project.jpg)
-
 ## React Navigation
 
 Öğrenme sürecinde en fazla kafa karışıklığının olduğu noktalardan biri de React Navigation. Biz kurs üzerinde bu konuyu üç bölüme ayırdık. "Stack Navigator", "Drawer Navigator" ve "Tab Navigator". Bu üç bölüm altında yeni bir ekran oluşturmayı, o ekrana yönlendirme yapmayı, modal açtırmayı, sol veya sağ menüler oluşturmayı son olarak da tab navigator oluşturmayı öğreniyorsunuz.
-
-![](https://mehmetseven.net/content/images/2019/04/react-navigation.jpg)
-Aynı konu üzerinde öğrendiklerimizle hazırladığımız bir diğer çalışma.
-![](https://mehmetseven.net/content/images/2019/04/react-navigation-2-min.jpg)
 
 ## Kamera Kullanımı
 
 Bu bölümde cihazın kamerasını kullanarak fotoğraf çekiyor ve çekilen fotoğrafı galeriye kaydediyoruz. Kamera görüntüsünün üzerinde ekstra kontroller ekliyor ve kullanıyoruz.
 Aynı zamanda kullanıcıdan bazı erişimler ile alakalı izin isteme durumlarını da bu bölüm üzerinde öğrenmeye başlıyoruz.
 
-![](https://mehmetseven.net/content/images/2019/04/camera-min.jpg)
 
 ## Animasyonlar
 
 React Native'in sağladığı Animated nesnesini kullanarak animasyon hazırlamayı öğreniyoruz. Animated altındaki bir çok methodu tanıma şansı yakalıyoruz.
 Temel animasyon oluşturma bilgisine sahip olduktan sonra aşağıdaki projeyi hazırlıyoruz.
 
-![](https://camo.githubusercontent.com/d32e94654705170d776cf629c0570b3d9e9fdb9a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f317a6c43707664453946634564757957396e2f736f757263652e676966)
 
 ### Harita Kullanımı
 
@@ -48,7 +36,7 @@ Yine bu bölümde izinler ile alakalı neler yapmanız gerektiğini pekiştirme 
 
 Harita kullanımına genel manada aşina olduktan sonra yakınlardaki restoran ve kafeleri gösteren bir uygulama geliştiriyoruz.
 
-![](https://mehmetseven.net/content/images/2019/04/nearby-min.jpg)
+
 
 ## MobX State Management
 
@@ -62,7 +50,6 @@ Custom bir Node.JS servise bağlanıp kullanıcı kaydı yapıyor ve giriş yap�
 
 Yani işin özü, bu projede `MobX` ve `React Navigation` ile bir kayıt ve giriş sürecini yönetmeyi öğreniyorsunuz.
 
-![](https://mehmetseven.net/content/images/2019/04/movieapp-min-1.jpg)
 
 ## Socket.IO ile Real-Time Çalışmak
 
@@ -71,7 +58,7 @@ Chat yazılımları ve multiplayer oyunlarda çokça tercih edilen bir teknoloji
 
 Kurs üzerinde bir Node.JS backend'i oluşturup socket.io'yu kullanıyoruz. Aşağıda görmüş olduğunuz çalışmayı hazırlıyoruz.
 
-[![Foo](https://mehmetseven.net/content/images/2019/04/socketio-min-play.jpg)](https://mehmetseven.net/content/images/socketio-rn.mp4)
+
 
 ## Yeni Eklenecek Bölümler
 
