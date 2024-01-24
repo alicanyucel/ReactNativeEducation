@@ -79,6 +79,3 @@ Kurs üzerinde bir Node.JS backend'i oluşturup socket.io'yu kullanıyoruz. Aşa
 - Background Tasks
 - GraphQL & Apollo
 - Uygulamayı Yayınlamak.
-
-
-[Kursa Git](http://bit.ly/reactnative_)
